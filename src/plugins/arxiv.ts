@@ -1,5 +1,5 @@
 // Title: arXiv Integration Plugin for BioAgent
-// Author: InnovativeBioresearch (giuli)
+// Author: InnovativeBioresearch (Jonathan Fior)
 // Date: 2025-04-16
 // Description: Eliza plugin for BioAgent to search arXiv for scientific papers:
 //   - Queries arXiv API to retrieve relevant literature, enhancing knowledge graph connections.
